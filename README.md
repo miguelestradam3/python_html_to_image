@@ -1,2 +1,2 @@
-# python_html_to_image
+# python HTML to image
 Transform HTML designs into images using Python
